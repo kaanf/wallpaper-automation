@@ -1,2 +1,3 @@
-# wallpaper-automation
-A python script that automatically change wallpaper using Unsplash API
+## A python script that automatically change wallpaper using Unsplash API
+
+Just use, ###python3 project.py
